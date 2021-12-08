@@ -1,0 +1,14 @@
+@media (min-width: 901px) {
+  body {
+    font-size: 20px;
+  }
+
+  .container {
+    width: 900px;
+    margin: auto;
+  }
+
+  .post-card {
+    width: 380px;
+  }
+}
