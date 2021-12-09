@@ -126,15 +126,17 @@ img {
   font-size: 3em;
 }
 
-.post-info {
-  padding: 10px;
-}
-
 .author-info {
   list-style: none;
   padding: 0;
 }
 
-.post-share {
+.post-info {
+  padding: 10px;
+  display:grid;
+}
+
+.post-share-list {
   list-style: none;
 }
+
